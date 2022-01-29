@@ -65,24 +65,8 @@ body {
   display: visible;
 }
 
-#page2 {
+#page2, #page3, #page4, #page5, #page6 {
   display: none;
-}
-
-#page3 {
-    display: none;
-  }
-
-#page4 {
-    display: none;
-}
-
-#page5 {
-    display: none;
-}
-
-#page6 {
-    display: none;
 }
 
 img.birthday {
