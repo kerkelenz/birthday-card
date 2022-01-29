@@ -15,10 +15,6 @@ body {
     max-width: 700px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     text-align: center;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
     padding: 1em;
     overflow: hidden;
     position: relative;
@@ -37,7 +33,6 @@ body {
 }
 
 #nextPage {
-    /* font-weight: bold; */
     background-color: #00BBBB;
     border: 2px solid #00BBBB;
     border-radius: 10px;
